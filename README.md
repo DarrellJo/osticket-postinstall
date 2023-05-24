@@ -82,7 +82,7 @@ Let's proceed with creating a new role called "Supreme Admin." This role will be
        - "SEV-A" can have a 1-hour time-frame and provide 24/7 coverage.
        - "SEV-B" can have a 4-hour time-frame and provide 24/7 coverage.
        - "SEV-C" can have an 8-hour time-frame and be applicable during business hours.
-   - Save the SLA configurations to create the three SLAs.
+    - Save the SLA configurations to create the three SLAs.
 
 To create Help Topics, follow these steps:
 
@@ -109,8 +109,35 @@ Great! Let's proceed with setting up some Users (customers) using the following 
 - Using the same process we used for creating other environments, create two User profiles named Karen and Kevin. Feel free to modify the names as desired.
 - Customize any additional details or settings for each user, such as contact information or preferences.
 - Save the user profiles to create the Users Karen and Kevin within the system.
+ 
+<p>
+<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+</p>
+<p>
+Now that we have a solid understanding of the process for creating these environments, we can apply a similar approach to setting up Teams and Agents. Let's proceed with the following steps:
 
-Congratulations! We have successfully set up our osTicketing Software with everything from roles to Help topics, and now we have also added two Users named Karen and Kevin (or any other desired names) to the system.
+Creating a Second Team ("Level II Support"):
+
+1. Within the Admin Panel, locate the "Teams" section.
+2. Click on an option such as "Add New Team" to initiate the team creation process.
+3. Provide the name "Level II Support" or any other desired name for the team.
+4. Configure any additional settings or preferences specific to this team, if applicable.
+5. Save the team configuration to create the "Level II Support" team.
+
+Creating Two Agents ("Jane Doe" and "John Doe"):
+
+1. Navigate to the "Agents" section within the Admin Panel.
+2. Look for an option such as "Add New Agent" to start adding agents to the system.
+3. Provide the names "Jane Doe" and "John Doe" or any other desired names for the agents.
+4. Customize any relevant details or settings for each agent, such as contact information or role assignments.
+5. Save the agent profiles to create the agents "Jane Doe" and "John Doe" within the system.
+
+By following these steps, you will successfully create a second team named "Level II Support" and two agents named "Jane Doe" and "John Doe" or any other desired names.
+</p>
+<br />
+
+<p>
+Congratulations! We have successfully set up our osTicketing Software with everything from roles to Help topics.
 
 </p>
 <br />
