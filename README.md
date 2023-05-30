@@ -31,16 +31,14 @@ In continuation of our initial lab, our next task involves configuring and setti
 
 <h2>Configuration Steps</h2>
 
-<p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
-</p>
+
 <p>
 Most of the setup requirements can be conveniently accessed from a single location. To access these settings, we simply need to navigate to the Admin Panel, which can be found in the top-left corner of the page. From there, we can proceed to the "Agents" section. Within this section, we will find options to configure Roles, Departments, Teams, and Agents.
 </p>
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/ykYdsbK.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Let's proceed with creating a new role called "Supreme Admin." This role will be granted extensive permissions, allowing the administrator to perform and modify various actions with flexibility. 
@@ -54,7 +52,7 @@ Let's proceed with creating a new role called "Supreme Admin." This role will be
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/abhQoee.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
   To create a new department named "System Administrators," please follow these steps:
@@ -70,7 +68,7 @@ Let's proceed with creating a new role called "Supreme Admin." This role will be
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/qPJuSUf.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>To access SLAs (Service Level Agreements) and Help Topics.
   
@@ -97,7 +95,7 @@ To create Help Topics, follow these steps:
 <br />
 
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/aASFb4m.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Great! Let's proceed with setting up some Users (customers) using the following steps:
@@ -111,7 +109,7 @@ Great! Let's proceed with setting up some Users (customers) using the following 
 - Save the user profiles to create the Users Karen and Kevin within the system.
  
 <p>
-<img src="https://i.imgur.com/DJmEXEB.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
+<img src="https://i.imgur.com/nxqRLwc.png" height="80%" width="80%" alt="Disk Sanitization Steps"/>
 </p>
 <p>
 Now that we have a solid understanding of the process for creating these environments, we can apply a similar approach to setting up Teams and Agents. Let's proceed with the following steps:
