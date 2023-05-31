@@ -8,7 +8,7 @@ In continuation of our initial lab, our next task involves configuring and setti
 
 <h2>Video Demonstration</h2>
 
-- ### [YouTube: How To Configure osTicket, post-installation](https://www.youtube.com)
+- ### [YouTube: How To Configure osTicket, post-installation](https://youtu.be/sA28OWPrc3A)
 
 <h2>Environments and Technologies Used</h2>
 
